@@ -1,0 +1,12 @@
+## selenium webdrivers ##
+chromedriver
+geckodriver.log
+
+## dotenv ##
+.env
+
+## notes ##
+notes.md
+
+## pycache ##
+__pycache__/
